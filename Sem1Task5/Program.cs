@@ -14,7 +14,7 @@ if(inputLine!=null)
     //Выходное значение
     string outLine = string.Empty;
 
-    wlile(startNumber<inputNumber)
+    while(startNumber<inputNumber)
     {
         outLine = outLine + startNumber + ";";
         startNumber++;

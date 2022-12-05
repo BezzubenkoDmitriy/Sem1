@@ -1,30 +1,27 @@
-﻿//вводим число
-string? numLine = Console.ReadLine();
-// проверяем ,чтобы данные не были пустыми 
-if(numLine != null)
+﻿
+// Считываем данные с консоли
+string? numLineN = Console.ReadLine();
+
+// Проверяем чтобы данные были не пустыми
+if (numLineN != null)
 {
-    // Парсим число
-    int num = int.Parse(numLine);
-    // Ввел переменную для входа-выхода из цикла
-    int variableLine = 2 Console.ReadLine();
-        // Условия цикла
-        While(variable > num)
-        {
-
-        }
-         
-         if(variable % == 2)
-         
-         {
-            Console.WriteLine(variableLine + 1)
-         }
-
-    
-
-
-
-
-
-
+// Парсим введённое число
+int numN = int.Parse(numLineN);
+// Вводим переменные
+int firstNumber = 2;
+string results = string.Empty;
+// Запускаем цикл
+while (firstNumber<numN)
+{
+results = results + firstNumber + "," ;
+firstNumber = firstNumber + 2 ;
+}
+// Проверяем на чётность число N
+if (numN%2==0)
+{
+results=results+numN;
+}
+// Выводим данные в консоль
+Console.WriteLine(results);
 
 }
