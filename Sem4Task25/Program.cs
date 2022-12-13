@@ -11,7 +11,7 @@ void PrintData(string res)
     Console.WriteLine(res);
 }
 // Метод возведения в степень
-int MPow(int numberA, int numberB)
+int Pow(int numberA, int numberB)
 {
   int result = 1;
   for(int i=1; i <= numberB; i++)
@@ -24,6 +24,6 @@ int MPow(int numberA, int numberB)
 
 int numberA = ReadData("Введите число А");
 int numberB = ReadData("Введите число B");
-int Pow = MPow(numberA, numberB);
-PrintData("Ответ: " + MPow);
+int WPow = Pow(numberA, numberB);
+PrintData("Ответ:"+WPow);
 
