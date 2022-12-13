@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Корпоративный ПК\\Desktop\\Gr3588\\Sem3Task22\\Sem3Task22.csproj": {}
+    "C:\\Users\\Корпоративный ПК\\Desktop\\Gr3588\\Sem1-1\\Sem3Task22\\Sem3Task22.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Корпоративный ПК\\Desktop\\Gr3588\\Sem3Task22\\Sem3Task22.csproj": {
+    "C:\\Users\\Корпоративный ПК\\Desktop\\Gr3588\\Sem1-1\\Sem3Task22\\Sem3Task22.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Корпоративный ПК\\Desktop\\Gr3588\\Sem3Task22\\Sem3Task22.csproj",
+        "projectUniqueName": "C:\\Users\\Корпоративный ПК\\Desktop\\Gr3588\\Sem1-1\\Sem3Task22\\Sem3Task22.csproj",
         "projectName": "Sem3Task22",
-        "projectPath": "C:\\Users\\Корпоративный ПК\\Desktop\\Gr3588\\Sem3Task22\\Sem3Task22.csproj",
+        "projectPath": "C:\\Users\\Корпоративный ПК\\Desktop\\Gr3588\\Sem1-1\\Sem3Task22\\Sem3Task22.csproj",
         "packagesPath": "C:\\Users\\Корпоративный ПК\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Корпоративный ПК\\Desktop\\Gr3588\\Sem3Task22\\obj\\",
+        "outputPath": "C:\\Users\\Корпоративный ПК\\Desktop\\Gr3588\\Sem1-1\\Sem3Task22\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Корпоративный ПК\\AppData\\Roaming\\NuGet\\NuGet.Config"
