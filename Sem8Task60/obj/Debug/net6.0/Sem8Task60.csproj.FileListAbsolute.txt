@@ -1,0 +1,15 @@
+C:\Users\Корпоративный ПК\Desktop\Gr3588\Sem1\Sem8Task60\bin\Debug\net6.0\Sem8Task60.exe
+C:\Users\Корпоративный ПК\Desktop\Gr3588\Sem1\Sem8Task60\bin\Debug\net6.0\Sem8Task60.deps.json
+C:\Users\Корпоративный ПК\Desktop\Gr3588\Sem1\Sem8Task60\bin\Debug\net6.0\Sem8Task60.runtimeconfig.json
+C:\Users\Корпоративный ПК\Desktop\Gr3588\Sem1\Sem8Task60\bin\Debug\net6.0\Sem8Task60.dll
+C:\Users\Корпоративный ПК\Desktop\Gr3588\Sem1\Sem8Task60\bin\Debug\net6.0\Sem8Task60.pdb
+C:\Users\Корпоративный ПК\Desktop\Gr3588\Sem1\Sem8Task60\obj\Debug\net6.0\Sem8Task60.csproj.AssemblyReference.cache
+C:\Users\Корпоративный ПК\Desktop\Gr3588\Sem1\Sem8Task60\obj\Debug\net6.0\Sem8Task60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Корпоративный ПК\Desktop\Gr3588\Sem1\Sem8Task60\obj\Debug\net6.0\Sem8Task60.AssemblyInfoInputs.cache
+C:\Users\Корпоративный ПК\Desktop\Gr3588\Sem1\Sem8Task60\obj\Debug\net6.0\Sem8Task60.AssemblyInfo.cs
+C:\Users\Корпоративный ПК\Desktop\Gr3588\Sem1\Sem8Task60\obj\Debug\net6.0\Sem8Task60.csproj.CoreCompileInputs.cache
+C:\Users\Корпоративный ПК\Desktop\Gr3588\Sem1\Sem8Task60\obj\Debug\net6.0\Sem8Task60.dll
+C:\Users\Корпоративный ПК\Desktop\Gr3588\Sem1\Sem8Task60\obj\Debug\net6.0\refint\Sem8Task60.dll
+C:\Users\Корпоративный ПК\Desktop\Gr3588\Sem1\Sem8Task60\obj\Debug\net6.0\Sem8Task60.pdb
+C:\Users\Корпоративный ПК\Desktop\Gr3588\Sem1\Sem8Task60\obj\Debug\net6.0\Sem8Task60.genruntimeconfig.cache
+C:\Users\Корпоративный ПК\Desktop\Gr3588\Sem1\Sem8Task60\obj\Debug\net6.0\ref\Sem8Task60.dll
